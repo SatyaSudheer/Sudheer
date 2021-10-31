@@ -1,2 +1,5 @@
-# sudheer
-Get to know Sudheer via npm. Just run `npx satyasudheer`
+# `npx satyasudheer`
+Get to know Sudheer via npm. 
+
+## Usage 
+Just run `npx satyasudheer`
